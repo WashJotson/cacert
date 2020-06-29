@@ -1,4 +1,5 @@
-# Guardian Project CA Bundle for Android < 4.0 for the year 2020
+# Guardian Project CA Bundle 
+# for Android < 4.0 for the year 2020
 
 In response to growing concerns about the less-than trustworthy state of the
 global Certificate Authority ecosystem, we have decided to began curating our
